@@ -1,0 +1,25 @@
+body{
+    background-image: url("../images/bg.jpg");
+    background-size: 100%;
+}
+.center{
+    width: 1100px;
+    margin: 10px 100px;
+}
+img{
+    width: 300px;
+    height: 400px;
+    float: left;
+    margin: 10px;
+}
+.txt{
+    width: 700px;
+    float: left;
+    margin: 15px;
+}
+.size{
+    font-size: 38px;
+}
+p{
+    text-indent: 2em;
+}
